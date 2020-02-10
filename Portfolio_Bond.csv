@@ -1,0 +1,12 @@
+﻿Column1,Estimated 1 day vol,Estimated 1 Day Return,1 day PNL,Delta-Gamma PNL,$ Delta,$ Gamma,$ Theta,Diversification Index
+TU1 Comdty,0.01,0,0,108973,0,0,0,1.18
+TY1 Comdty,0.03,0,0,108973,0,0,0,1.18
+FV1 Comdty,0.02,0,0,108973,0,0,0,1.18
+US1 Comdty,0.08,0.01,0,108973,0,0,0,1.18
+DU1 Comdty,0,0,0,108973,0,0,0,1.18
+OE1 Comdty,0.02,0,0,108973,0,0,0,1.18
+RX1 Comdty,0.04,0,0,108973,0,0,0,1.18
+EMB US Equity,0.03,0,0,108973,0,0,0,1.18
+TLT Comdty,0.11,0.01,0,108973,0,0,0,1.18
+JB1 Comdty,0.01,0,0,108973,0,0,0,1.18
+HYG US Equity,0.02,0,0,108973,0,0,0,1.18
