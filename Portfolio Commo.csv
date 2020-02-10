@@ -1,0 +1,8 @@
+﻿Column1,Estimated 1 day vol,Estimated 1 Day Return,1 day PNL,Delta-Gamma PNL,$ Delta,$ Gamma,$ Theta,Diversification Index
+CL1 Comdty,0.29,0.02,0,108973,0,0,0,1.18
+NG1 Comdty,0.36,0.02,0,108973,0,0,0,1.18
+GC1 Comdty,0.1,0.01,17838,108973,3000000,1834000,2579,1.18
+SI1 Comdty,0.2,0.01,10079,108973,800000,0,0,1.18
+S 1 Comdty,0.11,0.01,0,108973,0,0,0,1.18
+W 1 Comdty,0.17,0.01,0,108973,0,0,0,1.18
+C 1 Comdty,0.28,0.02,0,108973,0,0,0,1.18
